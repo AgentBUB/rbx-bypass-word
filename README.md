@@ -1,0 +1,2 @@
+# rbx-bypass-word
+Words that bypass the Roblox chat filter natively or need to be blocked from certain games I dev for
